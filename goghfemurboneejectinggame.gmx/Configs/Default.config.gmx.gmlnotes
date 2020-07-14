@@ -1,0 +1,14 @@
+// graphics : knife
+#macro GFX_KNIFE_TILE_IDX
+// graphics : player
+#macro GFX_PLR_TILE_IDX
+// graphics : enemy begin
+#macro GFX_ENEMY_TILE_IDX_1
+// graphics : enemy end
+#macro GFX_ENEMY_TILE_IDX_2
+// graphics : door
+#macro GFX_DOOR_TILE_IDX
+// graphics : door wall
+#macro GFX_DOOR_WALL_TILE_IDX
+// graphics : player spawnpoint
+#macro GFX_PLRSPAWN_TILE_IDX
