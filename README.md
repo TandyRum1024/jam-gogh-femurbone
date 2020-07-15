@@ -1,7 +1,7 @@
 # :hocho: VAN GOGH FEMURBONE EJECTION ANECDOTE : SOURCE CODE :hocho:
 ![banner](pics/promo_title_alt.png)
 ### A source code of my psuedo-roguelike swordfighting game entry for [Badduck and Eli's epic game jam](https://itch.io/jam/badducks-and-elis-epic-game-jam), written in 48 hours over the span of a weekend in 2020, July.
-### See the game's itch.io page HERE : [zikbakguru.itch.io/van-gogh-femurbone-eject](zikbakguru.itch.io/van-gogh-femurbone-eject)
+### See the game's itch.io page HERE : [zikbakguru.itch.io/van-gogh-femurbone-eject](https://zikbakguru.itch.io/van-gogh-femurbone-eject)
 ![gameplay](pics/GOGH_PROMO_GIF.gif)
 
 ## The game features...
@@ -16,7 +16,7 @@
 * Retro sfx & music that was synthesized and composed by myself
 
 ## Also included : the project files for my sound effects and music.
-They're conveniently placed inside of `/SFX` and `/MUS` folder respectively. The sound effect file (`.lch` files) can be opened with sfx synthesizer [LabChirp](labbed.itch.io/labchirp), And the music file (`loop1.kt` file) can be opened with music tracker [Klystrack](kometbomb.itch.io/klystrack).
+They're conveniently placed inside of `/SFX` and `/MUS` folder respectively. The sound effect file (`.lch` files) can be opened with sfx synthesizer [LabChirp](https://labbed.itch.io/labchirp), And the music file (`loop1.kt` file) can be opened with music tracker [Klystrack](https://kometbomb.itch.io/klystrack).
 
 ## Warning : Since this build is the exact same build as the gamejam build, This game contains a glitch that causes crash, keep that in mind.
 
