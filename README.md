@@ -24,6 +24,9 @@ They're conveniently placed inside of `/SFX` and `/MUS` folder respectively. The
 * The graphics asset were made & provided by Eli, The game jam's rules/restrictions was that we're only permitted to use the assets provided. (but drawing things like texts, shapes etc was allowed)
 * The font : Font from  Armin Gessert's The Great Giana Sisters (Game for Commodore 64), Converted to TTF font by KreativeKorp : www.kreativekorp.com/software/fonts/c64.shtml
 
+## License
+* [The game's code (including the shader code) is licensed with custom license (basically it has no license asdf)](LICENSE.txt)
+
 ## Developement progress & misc. footages
 ![d1](pics/GOGH_PAIN_1.png)
 ![d2](pics/GOGH_PAIN_3.png)
